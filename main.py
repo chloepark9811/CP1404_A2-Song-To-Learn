@@ -3,7 +3,7 @@ Name: Park Chae Yeon
 Date: 05/01/2018
 Brief Project Description:
 The project records the songs you learned and the ones you didn't learn.
-GitHub URL:
+GitHub URL: https://github.com/chloepark9811/CP1404_A2-Song-To-Learn
 """
 
 """
